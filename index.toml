@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
@@ -98,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
