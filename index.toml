@@ -6,8 +6,23 @@ hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "74a03a26c55f43efdfd2fe872fbe3af5cb17ab1161d4b1c6ce8da136abc55917"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
@@ -28,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "d02b0a2e61dbfa0b2995eb5d6b28568c5fac676d1866509a58da2926e44fd551"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
 metafile = true
 
 [[files]]
@@ -53,6 +73,21 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "ee71f054700c411558f83d0651c54ce872e30395bf3fed28f769ea125a80415b"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "48f422e0435d5a3fc58a03fe9a35369719ad439bdcc6fb6b5c856ea1979eb2ad"
 metafile = true
 
 [[files]]
@@ -86,8 +121,33 @@ hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
 file = "mods/landmines.pw.toml"
 hash = "dc6a5d9218e411637c076b52a611d4a062913335483a033e7740ee252060d8f3"
+metafile = true
+
+[[files]]
+file = "mods/laser-bridges-and-doors.pw.toml"
+hash = "a265e4c5aa03dc390774000024dd1177e17adfec92da6b4fba04123f78913734"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "313e4bdded31016df321a12a991752ec1dd1554320d414850016cfd702429477"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
 metafile = true
 
 [[files]]
@@ -136,6 +196,16 @@ hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "1f2082f6efee4ef59df22a55bee6474f13a6c6960194d0eb28415ebc55e134c5"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
 metafile = true
