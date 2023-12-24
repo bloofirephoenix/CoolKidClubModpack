@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e998c18a32f43f2cc9ddd821d80d865fe28117708115f216ac1a61e9200a6779"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
 metafile = true
@@ -38,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -186,6 +195,11 @@ hash = "9595bde62003caf601737ec3838a14beb67c2ef1212f8a74251c36d851698800"
 metafile = true
 
 [[files]]
+file = "mods/squashed.pw.toml"
+hash = "a8ab64bbf28c3bf3a369a50253667c78e69043e7d7533b60c7ff7b62432b847c"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
@@ -208,4 +222,9 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "30eb4ef58b844bc7570a276b7132404b1f26071019e40423d1bc7a67bba16aae"
 metafile = true
