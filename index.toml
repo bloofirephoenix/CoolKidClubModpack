@@ -15,6 +15,11 @@ hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
@@ -51,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "d02b0a2e61dbfa0b2995eb5d6b28568c5fac676d1866509a58da2926e44fd551"
+hash = "762a6a8905f162b1203d1c910def79789de5693214d13054ca60ab4068bec5b8"
 metafile = true
 
 [[files]]
@@ -101,7 +106,17 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "9c08037dd9f5457ddd0dcef24305f44a4cd908713203c574ae67dc44af536e6f"
+hash = "3802e6abd54f065143817dc002b7c22e5404a0f8ff241297034afa586ec23d7e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -135,6 +150,11 @@ hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/landmines.pw.toml"
 hash = "dc6a5d9218e411637c076b52a611d4a062913335483a033e7740ee252060d8f3"
 metafile = true
@@ -156,22 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
+hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
 metafile = true
 
 [[files]]
@@ -211,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1f2082f6efee4ef59df22a55bee6474f13a6c6960194d0eb28415ebc55e134c5"
+hash = "f8555ccd1d7a77c815e1b6bc198abc48a9e69527f8715c83ae1f017437dd73af"
 metafile = true
 
 [[files]]
@@ -222,6 +232,21 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "7e95e8e8fb045594c11c0f02cb9f5c4c83e9985e91259050c171fe62b1c2546d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dd76a7b6505ebef5beefd48742509d31be1e232051bf08c32ccabbf88ae9d313"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f79ac61306ede9d4037235e540fb6f9046a5fa20ef1b24b2639c6ca78addd165"
 metafile = true
 
 [[files]]
