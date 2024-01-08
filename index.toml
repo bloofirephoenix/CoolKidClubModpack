@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e998c18a32f43f2cc9ddd821d80d865fe28117708115f216ac1a61e9200a6779"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "904b86fbfc7dc95f3073f3765b978839f82656a67c0cb9490d5087f638733caf"
+
+[[files]]
 file = "config/passiveendermen.json5"
 hash = "c60c73176b1a284ba53fd513be629cdeec1e8561220fc61521ea7372a2e3a5cf"
 
@@ -179,6 +183,11 @@ hash = "313e4bdded31016df321a12a991752ec1dd1554320d414850016cfd702429477"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -261,4 +270,9 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "30eb4ef58b844bc7570a276b7132404b1f26071019e40423d1bc7a67bba16aae"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
 metafile = true
