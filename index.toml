@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "74a03a26c55f43efdfd2fe872fbe3af5cb17ab1161d4b1c6ce8da136abc55917"
+hash = "a86ff7d19c7d45433c3016102fcccffcdd477814a92a78e51c6144d552ad3f1f"
 metafile = true
 
 [[files]]
@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
+hash = "7c9f494e76e3451da11a34afc136a969ae382b57e562c11fba2a812fc8c5d971"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8e00296445109e75257d2ed7ec364282fdfc7c6b1860e0fa3d69d0c1d17b3324"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "762a6a8905f162b1203d1c910def79789de5693214d13054ca60ab4068bec5b8"
+hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "d6c50a4461c448090b9f262a2eca3f98cc7627bed654690e44d09f68c55357b0"
+hash = "4175b5ae65bfff65d1f04f908aa1aa894c9e7131d10383edb874542866276272"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "3802e6abd54f065143817dc002b7c22e5404a0f8ff241297034afa586ec23d7e"
+hash = "14d61e4e47b62a81feeeb81b2f95efa481d4832405b4baff708dbff5ef44c9bd"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "6bb1fa640e519d8ef5b334ecfcce05d007fa4e83ecd61e4da89826e0f683d78d"
+hash = "53bc922e7c8b0c6b22b77ccd6166f0adc5b137c811c68a139552b9b1e8e5906a"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
+hash = "ac382724d3a8b53d26fdb752e5798c1544b36f8e8f0fe167e297d1e2032d7fcc"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+hash = "e982b5f64e25e72f12673e456710f50b84295785541ebc6ddb2f8b898c2c12fb"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f8555ccd1d7a77c815e1b6bc198abc48a9e69527f8715c83ae1f017437dd73af"
+hash = "53c4c81ecb4dca2d0a1b0c8ac486360d92e108662a2b50e0c151281176974b12"
 metafile = true
 
 [[files]]
