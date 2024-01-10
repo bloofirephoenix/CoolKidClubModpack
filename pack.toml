@@ -1,6 +1,6 @@
 name = "Lemon Pack"
 author = "BlueFirePhoenix"
-version = "1.3.0_dev"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
