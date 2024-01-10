@@ -5,6 +5,14 @@ file = "README.md"
 hash = "e998c18a32f43f2cc9ddd821d80d865fe28117708115f216ac1a61e9200a6779"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8ffe510c5afcf838f840df91e57ef3a34d36b4713558866581aa97059929c1cc"
+
+[[files]]
+file = "config/passiveendermen.json5"
+hash = "c60c73176b1a284ba53fd513be629cdeec1e8561220fc61521ea7372a2e3a5cf"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
 metafile = true
@@ -31,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "74a03a26c55f43efdfd2fe872fbe3af5cb17ab1161d4b1c6ce8da136abc55917"
+hash = "a86ff7d19c7d45433c3016102fcccffcdd477814a92a78e51c6144d552ad3f1f"
 metafile = true
 
 [[files]]
@@ -41,12 +49,12 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
+hash = "7c9f494e76e3451da11a34afc136a969ae382b57e562c11fba2a812fc8c5d971"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8e00296445109e75257d2ed7ec364282fdfc7c6b1860e0fa3d69d0c1d17b3324"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
 
 [[files]]
@@ -62,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
@@ -111,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "3802e6abd54f065143817dc002b7c22e5404a0f8ff241297034afa586ec23d7e"
+hash = "14d61e4e47b62a81feeeb81b2f95efa481d4832405b4baff708dbff5ef44c9bd"
 metafile = true
 
 [[files]]
@@ -136,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "6bb1fa640e519d8ef5b334ecfcce05d007fa4e83ecd61e4da89826e0f683d78d"
+hash = "53bc922e7c8b0c6b22b77ccd6166f0adc5b137c811c68a139552b9b1e8e5906a"
 metafile = true
 
 [[files]]
@@ -175,13 +188,18 @@ hash = "313e4bdded31016df321a12a991752ec1dd1554320d414850016cfd702429477"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
+hash = "ac382724d3a8b53d26fdb752e5798c1544b36f8e8f0fe167e297d1e2032d7fcc"
 metafile = true
 
 [[files]]
@@ -190,8 +208,13 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/passive-endermen.pw.toml"
+hash = "e67f2388614595163ca3e95b85879a1dd506f25f5aa11e976a803c4d80d5381c"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+hash = "e982b5f64e25e72f12673e456710f50b84295785541ebc6ddb2f8b898c2c12fb"
 metafile = true
 
 [[files]]
@@ -226,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "71450018f66710378a2b970a09908dadf7c20e333ce690512d0dd10950dafba8"
+hash = "53c4c81ecb4dca2d0a1b0c8ac486360d92e108662a2b50e0c151281176974b12"
 metafile = true
 
 [[files]]
@@ -257,4 +280,9 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "30eb4ef58b844bc7570a276b7132404b1f26071019e40423d1bc7a67bba16aae"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
 metafile = true
