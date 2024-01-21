@@ -218,6 +218,11 @@ hash = "e67f2388614595163ca3e95b85879a1dd506f25f5aa11e976a803c4d80d5381c"
 metafile = true
 
 [[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -265,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "16533ac83d5cd1cb2708e080ad7996b22a595a7184a034516d46ad871776cd9b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
