@@ -6,7 +6,7 @@ hash = "e998c18a32f43f2cc9ddd821d80d865fe28117708115f216ac1a61e9200a6779"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8ffe510c5afcf838f840df91e57ef3a34d36b4713558866581aa97059929c1cc"
+hash = "a99edda552965b3b5f8cd2388784dbb5e4f6c6d8ce4b15baf598588727dcf6e0"
 
 [[files]]
 file = "config/passiveendermen.json5"
@@ -120,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
 metafile = true
 
 [[files]]
