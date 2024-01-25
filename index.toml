@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "e2526b3e5e9b429090a2d26cbd8f7e6c013f49416fa44432a89383025655ccf0"
-
-[[files]]
-file = "README.md"
-hash = "e998c18a32f43f2cc9ddd821d80d865fe28117708115f216ac1a61e9200a6779"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "3e1cc401aeeb6f434a7a2bc4168b517f78edd44b0c7a7771767347257602c4a7"
 
