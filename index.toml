@@ -162,6 +162,11 @@ hash = "53bc922e7c8b0c6b22b77ccd6166f0adc5b137c811c68a139552b9b1e8e5906a"
 metafile = true
 
 [[files]]
+file = "mods/here-be-no-dragons.pw.toml"
+hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
 file = "mods/ice-boat-nerf.pw.toml"
 hash = "2822d64c5795087ffb94d8c62590eda4f2d9d7ccfd3bfd68b25cc0295d7d2e1f"
 metafile = true
