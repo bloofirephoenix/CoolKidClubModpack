@@ -1,4 +1,4 @@
-# v1.5
+# v1.5.0
 - replaced rei with jei
 - updated supplementaries
 - added Light Emitting Diode
