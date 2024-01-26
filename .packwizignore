@@ -1,0 +1,5 @@
+.git/**
+.gitattributes
+CHANGELOG.md
+.gitignore
+README.md
