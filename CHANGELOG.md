@@ -1,3 +1,9 @@
+# v1.5.1
+- no more colored lights
+- updated minimap
+- updated world map
+- removed boon
+
 # v1.5.0
 - replaced rei with jei
 - updated supplementaries
