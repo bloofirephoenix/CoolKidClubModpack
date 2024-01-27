@@ -1,12 +1,12 @@
 name = "Lemon Pack"
 author = "BlueFirePhoenix"
-version = "1.5.0"
+version = "1.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7d49bbaac8d4b2800ab5f97c0aa5efac0749aa1860771601cfbd408cb2b5953a"
+hash = "ad45c8eede308bd2d5318b3a0104a45aa5509b84cc23abd6684ce6d7e62b3262"
 
 [versions]
 fabric = "0.15.3"
