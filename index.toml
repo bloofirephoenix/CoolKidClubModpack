@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3e1cc401aeeb6f434a7a2bc4168b517f78edd44b0c7a7771767347257602c4a7"
+hash = "cbbb06f4e98829ad49ee035751848d14e6890ecf8f13c0d31a02b3503a020bda"
 
 [[files]]
 file = "config/passiveendermen.json5"
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3e1a381807b8bfe1abb6be6b043b64d9426097bb4ea16c6aa956f6a151f5c72e"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
